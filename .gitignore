@@ -1,0 +1,11 @@
+main
+a.out
+cmake-build-debug/
+.idea/
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+dbscan
+.smbdeleteAAA26dbf3b
+

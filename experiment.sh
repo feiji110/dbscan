@@ -73,4 +73,3 @@ fi
 
 ./dbscan-runs.sh revised.cpp $DATA_DIR $SIZE $DIM $MIN_SAMPLE $EPS
 
-./dbscan-runs.sh proposed.cpp $DATA_DIR $SIZE $DIM $MIN_SAMPLE $EPS

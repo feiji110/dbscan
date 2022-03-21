@@ -30,7 +30,7 @@
 
 ```
 
-# How to use：
+# How to use:
 
 ```bash
 chmod +x ./dbscan-runs.sh 
